@@ -1,0 +1,3 @@
+platform/persistence/config/StandardMongoTemplate.class
+platform/persistence/model/ModeBase.class
+platform/persistence/config/MongoConfigContext.class
